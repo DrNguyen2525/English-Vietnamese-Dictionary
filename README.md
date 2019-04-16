@@ -26,7 +26,7 @@ This dictionary is created based on the [B-tree](http://www.hydrus.org.uk/doc/bt
 - [Glade](https://glade.gnome.org/)
 
 ## Features
-- Search
+- Look up
 - Modify
 - Add
 - Delete
