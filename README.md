@@ -37,6 +37,6 @@ This dictionary is created based on the [B-tree](http://www.hydrus.org.uk/doc/bt
 2. Open the command window in your OS and move to `dictionary` folder.
 3. Type `make` and enjoy.
 
-**You can also double click on the `dictionary` file directly to excute it** :+1:
+**You can also double click on the `dictionary` file to excute it directly** :+1:
 
 ![](dictionary_demo.gif)
